@@ -1,0 +1,42 @@
+body {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+#value {
+    font-size: 6rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.button-container {
+   width: 40%;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.btn {
+    border-radius: 5px;
+    border: 2px solid blue;
+    height: 2rem;
+    width: 7.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.btn:hover {
+    font-size: 17px;
+    transform: scale(1.4);
+    cursor: pointer;
+
+}
