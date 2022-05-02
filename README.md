@@ -1,0 +1,1 @@
+Basic counter page with three buttons(decrease, reset, increase). This basic project is to learn the fundamentals of JavaScript.
