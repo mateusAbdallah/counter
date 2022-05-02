@@ -20,9 +20,9 @@ h1 {
 }
 
 .button-container {
-   width: 40%;
+   width: 50%;
    display: flex;
-   justify-content: space-evenly;
+   justify-content: space-around;
 }
 
 .btn {
@@ -36,7 +36,7 @@ h1 {
 
 .btn:hover {
     font-size: 17px;
-    transform: scale(1.4);
+    transform: scale(1.1);
     cursor: pointer;
 
 }
